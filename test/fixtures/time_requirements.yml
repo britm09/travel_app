@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  c_d: 1
+  c_dnb: 1
+  c_i: 1
+  g_d: 1
+  g_i: 1
+  s_b: 1
+  s_n: 1
+  s_g: 1
+
+two:
+  c_d: 1
+  c_dnb: 1
+  c_i: 1
+  g_d: 1
+  g_i: 1
+  s_b: 1
+  s_n: 1
+  s_g: 1
